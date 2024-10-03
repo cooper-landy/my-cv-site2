@@ -1,0 +1,4 @@
+baseURL: "https://cooper-landy.github.io/my-cv-site2/" #This value must begin with the protocol and end with a slash, as shown above.
+title: Test Title
+paginate: 5
+theme: hello-friend
